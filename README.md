@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 
 ## make a change
 Hi I'm learning git / GitHub
+
+make change 1
